@@ -1,0 +1,14 @@
+{
+  "name": "app-node-math",
+  "version": "1.0.0",
+  "description": "app simples em nodeJS para exemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Franco",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^11.5.1"
+  }
+}
