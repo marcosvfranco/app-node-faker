@@ -4,11 +4,15 @@
   "description": "app simples em nodeJS para exemplo",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Marcos Franco",
   "license": "ISC",
   "dependencies": {
     "mathjs": "^11.5.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
   }
 }
